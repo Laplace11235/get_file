@@ -2,7 +2,7 @@ A simple programm for downloading files over http.
 
 build
 
-cmake
+cmake .
 make
 
 EXAMPLES
